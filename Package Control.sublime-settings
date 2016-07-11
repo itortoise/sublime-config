@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"ConvertToUTF8",
+		"IMESupport",
 		"Package Control",
 		"SublimeCodeIntel",
 		"SublimeLinter-pylint"
